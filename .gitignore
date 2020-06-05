@@ -2,7 +2,13 @@
 .ipynb_checkpoints/*
 03a857ce842d_02.jpg
 logs/*
-5. TensorFlow Object Detection API\data\*
 
-5. TensorFlow Object Detection API/data/5.JPG
-5. TensorFlow Object Detection API/data/4.JPG
+
+5. TensorFlow Object Detection API/data/*
+
+6. Siamese network for verification of persons on the LFW dataset/.ipynb_checkpoints/Siamese network for the LFW dataset-checkpoint.ipynb
+7. Neural network for recognizing human actions on the KTH dataset/.ipynb_checkpoints/Neural network for recognizing human actions on the KTH dataset-checkpoint.ipynb
+dz_04_semanticheskaya_segmentatsiya.hdf5
+my_model.h5
+mygraph.png
+6. Siamese network for verification of persons on the LFW dataset/Siamese network for the LFW dataset.ipynb
